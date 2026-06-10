@@ -81,7 +81,7 @@ Volume
 
 Helps identify stock trends
 
-Statistical Analysis
+### Statistical Analysis
 Highest Price
 
 Lowest Price
