@@ -128,7 +128,7 @@ Karavandla Varun kumar
 
 Aspiring Software Developer passionate about Python, Data Analytics, Machine Learning, and Web Applications.
 
-GitHub Profile: https://github.com/matteddulamayuri24-creator
+GitHub Profile: https://github.com/karavandlavarun-ship-it
 
 ## 🤝 Support
 If you like this project:
